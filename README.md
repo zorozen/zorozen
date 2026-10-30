@@ -12,12 +12,8 @@
 
 <img align="right" width="300" src="assets/zoro.gif" alt="Zoro"/>
 
-- 🔭 Custom ROM builder for **Poco F5 (marble)** — Snapdragon SM8450
+- 🔭 Custom ROM builder — Snapdragon SM8450
 - 🌿 Working with **AOSPA / CLO** (Calcite, Android 17) and **PenguinOS**
-- ✅ Shipped **PixelOS 17** for marble — built, signed with my own keys, published
-- 🛠️ Device trees, vendor blobs, kernels — and Dolby Vision / Atmos ports
-- 🌱 Currently crafting my **own CLO-based ROM**
-- ⚔️ Three-sword style, one device: **marble**
 
 <br clear="right"/>
 
