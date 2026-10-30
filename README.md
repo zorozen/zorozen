@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D976C&center=true&vCenter=true&width=480&lines=Custom+ROM+Builder;Poco+F5+(marble);AOSPA+%2F+CLO+%E2%80%A2+Android+17;PixelOS+%E2%80%A2+LineageOS+%E2%80%A2+PenguinOS" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D976C&center=true&vCenter=true&width=480&lines=Custom+ROM+Builder;AOSPA+%E2%80%A2+CLO;Android+17;Building+My+Own+ROM" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=zorozen&label=Profile%20views&color=1D976C&style=flat" alt="Profile views"/>
 
